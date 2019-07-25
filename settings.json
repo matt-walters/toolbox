@@ -1,0 +1,27 @@
+{
+    "csharp.referencesCodeLens.enabled": false,
+    "cSpell.language": "en-GB",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.minimap.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "none",
+    "editor.smoothScrolling": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.openEditors.visible": 0,
+    "git.ignoreMissingGitWarning": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.editor.showIcons": true,
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {
+      "statusBar.background" : "#1A1A1A",
+      "statusBar.noFolderBackground" : "#212121",
+      "statusBar.debuggingBackground": "#263238"
+    }
+}
