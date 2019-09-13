@@ -8,6 +8,7 @@ code --install-extension Arjun.swagger-viewer
 code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens
 code --install-extension humao.rest-client
+code --install-extension mhutchie.git-graph
 code --install-extension ms-python.python
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
