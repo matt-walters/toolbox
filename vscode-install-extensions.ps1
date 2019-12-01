@@ -7,6 +7,7 @@ code --install-extension alefragnani.Bookmarks
 code --install-extension Arjun.swagger-viewer
 code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens
+code --install-extension Gruntfuggly.todo-tree
 code --install-extension humao.rest-client
 code --install-extension mhutchie.git-graph
 code --install-extension ms-python.python
