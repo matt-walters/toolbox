@@ -1,5 +1,5 @@
-# code --list-extensions
 # code --install-extension ms-vscode.cpptools
+# code --list-extensions
 # code --uninstall-extension ms-vscode.csharp
 
 code --install-extension 42Crunch.vscode-openapi
@@ -9,7 +9,9 @@ code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension humao.rest-client
+code --install-extension jebbs.plantuml
 code --install-extension mhutchie.git-graph
+code --install-extension ms-dotnettools.csharp
 code --install-extension ms-python.python
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-ssh
