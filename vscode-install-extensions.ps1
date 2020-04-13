@@ -7,6 +7,7 @@ code --install-extension alefragnani.Bookmarks
 code --install-extension Arjun.swagger-viewer
 code --install-extension DotJoshJohnson.xml
 code --install-extension eamodio.gitlens
+code --install-extension GrapeCity.gc-excelviewer
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension humao.rest-client
 code --install-extension jebbs.plantuml
