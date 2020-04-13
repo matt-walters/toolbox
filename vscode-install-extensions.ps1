@@ -26,3 +26,4 @@ code --install-extension ms-vscode.Theme-MarkdownKit
 code --install-extension ms-vscode.vs-keybindings
 code --install-extension redhat.vscode-yaml
 code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension yzane.markdown-pdf
